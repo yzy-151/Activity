@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="Button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="Button5">Button</string>
+    <string name="todo1">TODO</string>
+    <string name="Switch">switch1</string>
+</resources>
